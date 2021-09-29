@@ -1,0 +1,162 @@
+{
+  "etapas": [
+    {
+      "titulo": "VEREADOR",
+      "numeros": ["", "", "", "", ""],
+      "candidatos":[
+        {
+          "numero": "11111",
+          "nome": "Armandinho",
+          "vice": "Lagartixa",
+          "partido": "PPT",
+          "fotos":[
+            {
+              "url": "../assets/images/armandinho.png",
+              "legenda": "Vereador"
+            },
+            {
+              "url": "../assets/images/nao_encontrado.png",
+              "legenda": "Vice"
+            }
+          ]
+
+        },
+        {
+          "numero": "22222",
+          "nome": "Luizinho",
+          "vice": "Minhoca",
+          "partido": "PTO",
+          "fotos":[
+            {
+              "url": "../assets/images/luizinho.png",
+              "legenda": "Vereador"
+            },
+            {
+              "url": "../assets/images/nao_encontrado.png",
+              "legenda": "Vice"
+            }
+          ]
+
+        },
+        {
+          "numero": "33333",
+          "nome": "Mariquinha",
+          "vice": "Besouro",
+          "partido": "PRR",
+          "fotos":[
+            {
+              "url": "../assets/images/mariquinha.png",
+              "legenda": "Vereador"
+            },
+            {
+              "url": "../assets/images/nao_encontrado.png",
+              "legenda": "Vice"
+            }
+          ]
+        },
+        {
+          "numero": "99999",
+          "nome": "Aninha",
+          "vice": "Mariposa",
+          "partido": "PRR",
+          "fotos":[
+            {
+              "url": "../assets/images/aninha.png",
+              "legenda": "Vereador"
+            },
+            {
+              "url": "../assets/images/nao_encontrado.png",
+              "legenda": "Vice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "PREFEITO",
+      "numeros": ["", ""],
+      "candidatos": [
+        {
+          "numero": "11",
+          "nome": "Zezinho",
+          "partido": "PPT",
+          "vice": "Cidinha",
+          "fotos": [
+            {
+              "url": "../assets/images/zezinho.png",
+              "legenda": "Prefeito"
+            },
+            {
+              "url": "../assets/images/cidinha.png",
+              "legenda": "Vice"
+            }
+          ]
+        },
+        {
+          "numero": "55",
+          "nome": "Belinha",
+          "partido": "PTO",
+          "vice": "Juninho",
+          "fotos": [
+            {
+              "url": "../assets/images/belinha.png",
+              "legenda": "Prefeito"
+            },
+            {
+              "url": "../assets/images/juninho.png",
+              "legenda": "Vice"
+            }
+          ]
+        },
+        {
+          "numero": "99",
+          "nome": "Ricardinho",
+          "partido": "PAG",
+          "vice": "Rebequinha",
+          "fotos": [
+            {
+              "url": "../assets/images/ricardinho.png",
+              "legenda": "Prefeito"
+            },
+            {
+              "url": "../assets/images/rebequinha.png",
+              "legenda": "Vice"
+            }
+          ]
+        },
+        {
+          "numero": "88",
+          "nome": "Vandinha",
+          "partido": "PMc",
+          "vice": "Robertinho",
+          "fotos": [
+            {
+              "url": "../assets/images/vandinha.png",
+              "legenda": "Prefeito"
+            },
+            {
+              "url": "../assets/images/robertinho.png",
+              "legenda": "Vice"
+            }
+          ]
+        },
+        {
+          "numero": "77",
+          "nome": "Marcelinho",
+          "partido": "PTT",
+          "vice": "Joaninha",
+          "fotos": [
+            {
+              "url": "../assets/images/marcelinho.png",
+              "legenda": "Prefeito"
+            },
+            {
+              "url": "../assets/images/joaninha.png",
+              "legenda": "Vice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

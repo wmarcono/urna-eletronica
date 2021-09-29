@@ -1,0 +1,26 @@
+<div class="body">
+	<div class="urna">
+
+    <app-tela
+        [telaInicio]="telaInicio"
+        [telaAguardando]="telaAguardando"
+        [seuVotoPara]="seuVotoPara"
+        [cargo]="cargo"
+        [mostrarNumeros]="mostrarNumeros"
+        [mostrarDescricao]="mostrarDescricao"
+        [mostrarAviso]="mostrarAviso"
+        [mostrarLateral]="mostrarLateral"
+        [etapa]="etapa"
+        [algarismos]="algarismos"
+        [dadosCandidato]="dadosCandidato"
+        [votoNuloTela]="votoNuloTela"
+        [votoBrancoTela]="votoBrancoTela"
+        [telaFim]="telaFim"
+    ></app-tela>
+    <app-teclado
+        (botaoClicado)="clicou($event)"
+    ></app-teclado>
+
+  </div>
+  <button class="" (click)="iniciarSecao()">Iniciar Seção</button>
+</div>
